@@ -1,0 +1,6 @@
+#FileLock
+#Thu Oct 22 13:39:41 CEST 2026
+hostName=B02-04
+id=1a16368e51084eab4a7b941b0223851d2bee4b58328
+method=file
+server=192.168.50.6\:42417
